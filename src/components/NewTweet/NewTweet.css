@@ -1,0 +1,39 @@
+.form-control{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    width: 45rem;
+}
+.text{
+    text-align: center !important;
+    margin-top: 1rem;
+}
+.card{
+    align-items: center;
+    height: 18rem !important;
+    width: 58rem;
+   
+}
+#color{
+    background-color: cadetblue;
+}
+.btn-primary{
+    width: 10rem;
+    margin-left: 14rem;
+}
+.form-outline{
+    align-items: center;
+}
+#textAreaExample1{
+    width: 37rem !important;
+}
+.out{
+    align-items: center;
+    margin-top: 2rem;
+    justify-content: center;
+    display: flex;
+    background-color: aliceblue;
+    height:26rem;
+    flex-direction: column;
+   
+    
+}

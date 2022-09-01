@@ -1,0 +1,25 @@
+#uname{
+    color: blue;
+}
+
+.user{
+    margin-left: 22rem;
+    
+}
+
+.out{
+    align-items: center;
+    margin-top: 2rem;
+    justify-content: center;
+    display: flex;
+    background-color: aliceblue;
+    height:26rem;
+    border-style: solid;
+    border-color: blue;
+    
+}
+ 
+.replyCard{
+    box-shadow: -1px 1px 2px 1px #dee2e6;
+    border-color:#dee2e6 ;
+}

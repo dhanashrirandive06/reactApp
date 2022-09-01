@@ -1,0 +1,60 @@
+.comp{
+    text-align: -webkit-center!important;
+    width: 50rem;
+    text-align: center;
+}
+.card {
+    text-align: left;
+}
+.tweet{
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    
+}
+.date{
+    font-size: 12px;
+    opacity: 0.6;
+    
+}
+.tweetdata{
+    font-size: 14px;
+}
+
+.reply{
+    margin: 10px;
+}
+.heart{
+    margin: 10px;
+}
+
+
+.heart-clicked{
+    color: red;
+}
+
+
+.tweetRow{
+    border: 1px solid #ced4da;
+    box-shadow: 0px 1px 4px 0px #ced4da;
+    width: 70%;
+}
+.tweetMsg{
+    padding-left: 4rem !important;
+    color: #3a3a3a;
+    font-size: 1.1rem;
+   
+}
+
+.iconImg{
+    align-self: center;
+}
+
+.actions{
+    text-align-last: end;
+}
+#uname{
+    color: blue;
+}
+.bg{
+    background-color: white;
+}
